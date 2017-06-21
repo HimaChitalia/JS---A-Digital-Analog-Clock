@@ -15,8 +15,8 @@
 /* Clock styles */
 .circle {
     fill: none;
-    stroke: #000;
-    stroke-width: 9;
+    stroke: brown;
+    stroke-width: 15;
     stroke-miterlimit: 10;
 }
 
@@ -32,7 +32,7 @@
 
 .hour-arm {
     fill: none;
-    stroke: #000;
+    stroke: brown;
     stroke-width: 17;
     stroke-miterlimit: 10;
 }
